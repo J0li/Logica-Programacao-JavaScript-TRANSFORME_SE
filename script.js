@@ -19,3 +19,11 @@ console.log(`Total a pagar: ${totalCompraComDesconto}`);
 const idade = 10;
 const temEquipe = true;
 // >>> Escreva sua solução aqui <<<
+if (idade >= 12 && temEquipe) {
+    console.log("Inscrição permitida");
+}if {
+    (idade >= 17 && temEquipe) {
+    console.log("Fora da faixa de idade.");
+} else {
+    console.log("Inscrição não permitida");
+}
